@@ -1,0 +1,16 @@
+to activate the environment -> .venv\Scripts\activate
+to remove dir of venv -> rmdir /s venv
+pip install cv2
+pip install pytesseract
+python manage.py runserver. ->to start the servers
+python -m pip install django
+cd directory path to locate the exact path
+pip install openpyxl
+pip install sqllite3
+tesseract --version
+g++ --version
+python manage.py  migrate
+pip install sqllite3
+pip install ipykernel
+pip install --upgrade pip
+pip install --trusted-host pypi.org--trusted-host files.pythonhosted.org--trusted-host pypi.python.org ipykernel           
